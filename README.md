@@ -13,8 +13,8 @@ Ethan Vocal
 
 Video Link
 ================================
-https://youtu.be/Pm5V8HHuz4Y
+https://www.youtube.com/watch?v=C3p6v5Wj7eg
 
 App Link
 ================================
-https://www.figma.com/proto/xobuV4s7q2NN28kWU9OpRt/CSC-642?node-id=1-65&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A65&show-proto-sidebar=1&mode=design&t=uUgofE5qdisz5Md9-1
+https://www.figma.com/proto/xobuV4s7q2NN28kWU9OpRt/CSC-642?type=design&node-id=1-65&t=Hj6cg4cQh6bQceha-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A65&mode=design
